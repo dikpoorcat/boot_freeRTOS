@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boot_freeRTOS", "boot_freeRTOS\boot_freeRTOS.vcxproj", "{ABDCBCC6-256C-4D65-A142-6A34B6BCA2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDCBCC6-256C-4D65-A142-6A34B6BCA2CE}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{ABDCBCC6-256C-4D65-A142-6A34B6BCA2CE}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{ABDCBCC6-256C-4D65-A142-6A34B6BCA2CE}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{ABDCBCC6-256C-4D65-A142-6A34B6BCA2CE}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8306442B-0ED1-4E85-906A-B5B7D945E9EA}
+	EndGlobalSection
+EndGlobal
